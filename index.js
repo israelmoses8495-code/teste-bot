@@ -1,3 +1,5 @@
+const htpp = require('http');
+http .createServer((req, res) =>res.end( 'bot is running')).listen(3000);
 const { default: makeWASocket, useMultiFileAuthState, DisconnectReason } = require('@whiskeysockets/【entity-baileys¦canonical_name=Baileys】');
 const qrcode = require('qrcode-terminal');
 const express = require(' express');

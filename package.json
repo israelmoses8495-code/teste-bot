@@ -8,5 +8,6 @@
     "qrcode-terminal": "latest",
     "express": "latest",
     "pino": "latest"
+
   }
 }
