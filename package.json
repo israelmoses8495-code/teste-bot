@@ -1,4 +1,4 @@
-
+ {
   "name": "teste-bot",
   "version": "1.0.0",
   "main": "index.js",
@@ -11,4 +11,3 @@
     "express": "4.21.2",
     "pino": "9.3.2"
   }
-}
